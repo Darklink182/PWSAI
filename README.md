@@ -31,7 +31,7 @@ __Als python zich in een hoger path bevindt (C:\PythonXY):__ \
 \
 ![Alt text](https://cdn.discordapp.com/attachments/801676668942024745/812011306709942302/unknown.png) \
 \
-![Alt text](https://cdn.discordapp.com/attachments/801676668942024745/812011569692016691/unknown.png) \
+![Alt text](https://cdn.discordapp.com/attachments/801676668942024745/812011569692016691/unknown.png) 
 
 4. Open de map als een project in uw IDE (in mijn geval PyCharm) \
 \
@@ -44,6 +44,6 @@ __Als python zich in een hoger path bevindt (C:\PythonXY):__ \
 6. Een venster zal openen, en hij zal meteen beginnen met het proberen te vinden van geleerde objecten \
 \
 ![Alt text](https://cdn.discordapp.com/attachments/801676668942024745/812012969541238794/unknown.png)
-\
+
 
 7. Om het venster te sluiten, druk op q
