@@ -8,23 +8,23 @@
 
 2. Open de command prompt en run het volgende command \
 \
-Als python zich bevindt in het \AppData\Python\PythonXY path: \
+__Als python zich bevindt in het \AppData\Python\PythonXY path:__ \
 `py -m pip install opencv-python` \
-Als python zich in een hoger path bevindt (C:\PythonXY): \
+__Als python zich in een hoger path bevindt (C:\PythonXY):__ \
 `pip install opencv-python` \
 \
-Als een error zich voordoet, zorg ervoor dat numpy is geinstalleerd; \
+_Als een error zich voordoet, zorg ervoor dat numpy is geinstalleerd;_ \
 \
-Als python zich bevindt in het \AppData\Python\PythonXY path: \
+__Als python zich bevindt in het \AppData\Python\PythonXY path:__ \
 `py -m pip install numpy` \
-Als python zich in een hoger path bevindt (C:\PythonXY): \
+__Als python zich in een hoger path bevindt (C:\PythonXY):__ \
 `pip install numpy` \
 \
-Of dat de juiste PIP versie is geïnstalleerd; \
+*Of dat de juiste PIP versie is geïnstalleerd;* \
 \
-Als python zich bevindt in het \AppData\Python\PythonXY path: \
+__Als python zich bevindt in het \AppData\Python\PythonXY path:__ \
 `py -m pip install --upgrade pip` \
-Als python zich in een hoger path bevindt (C:\PythonXY): \
+__Als python zich in een hoger path bevindt (C:\PythonXY):__ \
 `pip install --upgrade pip` 
 
 3. Pak de zip uit die gedownload is in stap 1 \
